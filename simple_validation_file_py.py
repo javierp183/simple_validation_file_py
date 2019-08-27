@@ -1,5 +1,4 @@
-""" Output Templater """
-from string import Template
+""" Simple file validation """
 
 class File:
     def __init__(self,file):
